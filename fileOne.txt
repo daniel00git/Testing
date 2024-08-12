@@ -1,3 +1,7 @@
 making changes neww existing fvfr addedkjfdbbasse
 
+<<<<<<< HEAD
 example2hh
+=======
+dfsdshfjbsj
+>>>>>>> ff811881213a409a547f2337021c242eaee0af52
